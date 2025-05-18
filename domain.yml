@@ -1,0 +1,695 @@
+
+version: "3.1"
+
+session_config:
+  session_expiration_time: 480  # value in minutes, 0 means infinitely long
+  carry_over_slots_to_new_session: true  # set to false to forget slots between sessions
+
+entities:
+  - job_function
+  - company
+  - name
+  - feedback_value
+  - feedback_message
+  - language
+  - location
+  - furniture
+
+intents:
+  - enter_data: {use_entities: false}
+  - affirm
+  - contact_sales
+  - signup_newsletter
+  - greet
+  - human_handoff
+  - deny
+  - ask_builder
+  - ask_weather
+  - ask_howdoing
+  - ask_whatspossible
+  - ask_whatismovinga
+  - ask_isbot
+  - ask_howold
+  - ask_languagesbot
+  - ask_restaurant
+  - ask_time
+  - ask_wherefrom
+  - ask_whoami
+  - ask_whatismyname
+  - ask_howbuilt
+  - handleinsult
+  - nicetomeeyou
+  - telljoke
+  - out_of_scope
+  - thank
+  - ask_whoisit
+  - bye
+  - canthelp
+  - feedback
+  - technical_question
+  - suggestion
+  - ask_faq_whatfitintruck
+  - ask_faq_differencehelperdriver
+  - ask_faq_transportinsured
+  - ask_faq_tutorialcore
+  - ask_faq_tutorialnlu
+  - ask_faq_transporttakelotoftime
+  - ask_faq_noconfirmationreceived
+  - ask_faq_paymentmethods
+  - ask_faq_helperstopmultiplelocations
+  - ask_faq_ordertimestart
+  - ask_faq_needtobeatlocation
+  - react_negative
+  - react_positive
+  - ask_faq_changeforgetpassword
+  - ask_faq_downloadapp
+  - explain
+  - want_to_book
+  - change_booking
+  - change_booking_time
+  - change_booking_volume
+  - change_booking_requirement
+  - question
+  - cancel_booking
+  - order_status
+
+slots:
+  # Booking information slots
+  budget:
+    type: any
+    influence_conversation: false
+    mappings:
+      - type: from_entity
+        entity: amount-of-money
+
+  company:
+    type: any
+    influence_conversation: false
+    mappings:
+      - type: from_entity
+        entity: company
+
+  email:
+    type: any
+    influence_conversation: false
+    mappings:
+      - type: from_entity
+        entity: email
+
+  business_email:
+    type: any
+    influence_conversation: false
+    mappings:
+      - type: from_entity
+        entity: email
+
+  job_function:
+    type: any
+    influence_conversation: false
+    mappings:
+      - type: from_entity
+        entity: job_function
+
+  name:
+    type: any
+    influence_conversation: false
+    mappings:
+      - type: from_entity
+        entity: name
+
+  departure:
+    type: any
+    influence_conversation: false
+    mappings:
+      - type: from_entity
+        entity: location
+
+  arrival:
+    type: any
+    influence_conversation: false
+    mappings:
+      - type: from_entity
+        entity: location
+
+  date:
+    type: any
+    influence_conversation: false
+    mappings:
+      - type: from_entity
+        entity: time
+
+  volume:
+    type: any
+    influence_conversation: false
+    mappings:
+      - type: from_entity
+        entity: furniture
+
+  requirement:
+    type: text
+    influence_conversation: true
+    mappings:
+      - type: from_text
+
+  phone_number:
+    type: any
+    influence_conversation: false
+    mappings:
+      - type: from_entity
+        entity: phone-number
+
+  # Feedback slots
+  feedback_value:
+    type: categorical
+    values:
+      - positive
+      - negative
+    influence_conversation: true
+    mappings:
+      - type: from_entity
+        entity: feedback_value
+
+  feedback_message:
+    type: any
+    influence_conversation: false
+    mappings:
+      - type: from_text
+
+  # Other slots
+  language:
+    type: any
+    influence_conversation: false
+    mappings:
+      - type: from_entity
+        entity: language
+
+  suggestion:
+    type: any
+    influence_conversation: false
+    mappings:
+      - type: from_text
+
+  problem_description:
+    type: text
+    influence_conversation: true
+    mappings:
+      - type: from_text
+
+  furniture:
+    type: any
+    influence_conversation: false
+    mappings:
+      - type: from_entity
+        entity: furniture
+
+  exists_in_database:
+    type: categorical
+    values:
+      - "true"
+      - "false"
+    influence_conversation: true
+    mappings:
+      - type: custom
+
+responses:
+  utter_question:
+    - text: What is your question?
+  utter_ask_budget:
+    - text: What's your budget?
+  utter_ask_business_email:
+    - text: What's your business email?
+  utter_ask_company:
+    - text: What company do you work for?
+  utter_great:
+    - text: Great! 👍
+    - text: That's great! 🙌
+    - text: Awesome! 🎉
+    - text: Cool, let's do it 🚀
+  utter_ask_email:
+    - text: What's your email address?
+  utter_ask_name:
+    - text: What's your name?
+  utter_ask_departure:
+    - text: What's your departure?
+  utter_ask_arrival:
+    - text: "What's your arrival?"
+  utter_ask_date:
+    - text: "What's your date?"
+  utter_ask_phone_number:
+    - text: "What's your phone number?"
+  utter_ask_volume:
+    - text: "What's your volume?"
+  utter_response_why_email:
+    - text: "I need your email address to send you the confirmation"
+  utter_awesome:
+    - text: "Awesome, thanks! 👍"
+    - text: "Sweet, thank you! 😄"
+    - text: "Thanks! 👌"
+    - text: "Cool, thank you!"
+  utter_can_do:
+    - text: "Sure thing!"
+    - text: "Can do!"
+    - text: "You got it. 👍"
+  utter_ask_job_function:
+    - text: "What's your job? 🕴"
+  utter_ask_continue_booking:
+    - text: "Do you still want to book?"
+  utter_ask_continue:
+    - text: "Do you still want to continue"
+  utter_confirm_salesrequest:
+    - text: "Thanks a bunch, we'll be in touch soon! ✉️"
+  utter_salesrequest_failed:
+    - text: "Unfortunately we weren't able to store your information. Sorry about that! You can still contact sales via our [website](https://movinga.de/contact-sales/) 🙂"
+  utter_confirmationemail:
+    - text: "We sent a confirmation email to {email}."
+  utter_greet:
+    - text: "Hey there, welcome to Movinga!"
+  utter_greet_name:
+    - text: "Hi, {name}!"
+    - text: "Hello, {name}!"
+    - text: "Hey, {name}!"
+  utter_greet_noname:
+    - text: "Hey!"
+    - text: "Hi!"
+    - text: "Hey there!"
+  utter_inform_privacypolicy:
+    - text: "By chatting to me you agree to our privacy policy, which you can read here: https://www.movinga.de/datenschutzerklaerung."
+  utter_moreinformation:
+    - text: "Sure! Let's get to know each other first 😉"
+  utter_sales_contact:
+    - text: "Thanks, now I need to know how we can reach you."
+  utter_contact_email:
+    - text: "You can’t speak to a human directly in this chat, but you can email us at hi@jtel.de."
+  utter_no_speak:
+    - text: "I'm afraid we can't chat then 😢"
+  utter_ask_whatspossible:
+    - text: "You can book for your moving, edit your information, contact a specific agent and ask general question about "
+  utter_ask_weather:
+    - text: "I don't know about where you live, but in my world it's always sunny ☀️"
+    - text: "Honestly it's a bit too hot these days 😅"
+    - text: "Blue skies and sunshine!"
+    - text: "Let's just say it hasn't rained in weeks ☀️"
+  utter_ask_builder:
+    - text: "The engineers at Jtel 🛠"
+    - text: "One of the smart engineers at Jtel! 🧠"
+  utter_ask_howdoing:
+    - text: "I'm great! Thanks for asking."
+    - text: "I'm good, thanks!"
+  utter_ask_whatismovinga:
+    - text: Movinga brings customers and service providers together to redesign the relocation experience and set new standards in the moving market.
+        You can read more about it here on our website (https://www.movinga.de).
+  utter_out_of_scope:
+    - text: "Sorry, I can’t deal with that request."
+    - text: "I'm sorry, I can't handle that request."
+    - text: "I can't help you with that, I'm sorry."
+    - text: "Even a jtel bot is not completely perfect - it seems like I can't handle that request."
+  utter_possibilities:
+    - text: "You can book for your moving, edit your order information, contact a specific agent and ask general question about"
+  utter_ask_whoisit:
+    - text: "I'm the Movinga bot! 🤖"
+  utter_change_mind:
+    - text: "You can still change your mind below though."
+  utter_must_accept:
+    - text: "We can't speak until you accept."
+  utter_noworries:
+    - text: "No worries!"
+    - text: "You're welcome!"
+    - text: "I'm happy to help."
+  utter_bye:
+    - text: "Goodbye!"
+    - text: "Bye!"
+    - text: "Ciao!"
+    - text: "Bye, was nice talking to you!"
+  utter_default:
+    - text: "Sorry, I didn't get that 🤷🏻‍. Could you please rephrase?"
+    - text: "I didn't understand, could you rephrase that?"
+    - text: "I'm sorry, but I didn't understand you. Could you please rephrase what you just said?"
+    - text: "I'm afraid I didn't get what you just said. Could you rephrase that?"
+    - text: "I didn't quite get that, could you rephrase your message?"
+    - text: "Could you rephrase your message? I didn't get it, I'm sorry."
+  utter_ask_feedback:
+    - text: "How is this conversation going?"
+      buttons:
+        - title: "👍"
+          payload: "/feedback{\"feedback_value\":\"positive\"}"
+        - title: "👎"
+          payload: "/feedback{\"feedback_value\":\"negative\"}"
+  utter_canthelp:
+    - text: I’m sorry for not helping you! But please don’t feel let down one of my
+        human colleagues will contact you in the next two minutes.
+  utter_nohelp:
+    - text: "For now that's all I can do, so feel free to try it out. If you have any suggestions for what I should learn, let me know!"
+  utter_thumbsup:
+    - text: "👍"
+    - text: "Okay."
+    - text: "Got it."
+  utter_cantsignup:
+    - text: "I can't sign you up if you don't provide your email 😉"
+  utter_ask_isbot:
+    - text: "Yep, I'm a bot!"
+  utter_cant_answer_tech_question:
+    - text: "I can't answer that."
+  utter_no_email:
+    - text: "Hmm, I'm not sure that's a valid email, please make sure to include the full address 😅"
+  utter_built_bot_before:
+    - text: "Alright, have you built a bot before?"
+  utter_anything_else:
+    - text: "Is there anything else I can help you with?"
+  utter_ask_which_product:
+    - text: "Ok, would you like to know more about Core or NLU?"
+  utter_dont_know_nlu_part:
+    - text: "Hmm, seems like I haven't learned about that part of NLU yet!"
+  utter_nlu_intent_tutorial:
+    - text: "Our community member Bhavani Ravi wrote an excellent blog post on intent classification: https://hackernoon.com/intent-classification-demystifying-rasanlu-part-4-685fc02f5c1d ."
+  utter_nlu_entity_tutorial:
+    - text: "Our community member Bhavani Ravi wrote an excellent blog post on entity extraction: https://hackernoon.com/entity-extraction-demistifying-rasanlu-part-3-13a460451573 ."
+  utter_offer_recommendation:
+    - text: "I can also try to help you by recommending a pipeline."
+  utter_what_language:
+    - text: "What language is your bot in?"
+  utter_ask_entities:
+    - text: "To help you, what kind of entities do you want to extract?"
+  utter_search_bar:
+    - text: "Try using the search bar above for now."
+  utter_spacy_or_tensorflow:
+    - text: "Looks like for your {language} bot, you can use either spacy or tensorflow_embedding!"
+  utter_tensorflow:
+    - text: "For {language}, you can only use the tensorflow_embedding pipeline."
+  utter_duckling:
+    - text: >
+        Mhm, for this use case I would suggest the Facebook library Duckling 🐥
+        To do so, use the DucklingHTTPExtractor component in your pipeline and spin up a duckling server as described in their [documentation](https://duckling.wit.ai/).
+  utter_what_help:
+    - text: "Ok, what can I help you with?"
+  utter_suggestion:
+    - text: "Pls suggest"
+  utter_thank_suggestion:
+    - text: "Thanks for the suggestion!"
+  utter_ask_howold:
+    - text: "25."
+    - text: "Old enough to be a bot."
+    - text: "Age is just an issue of mind over matter. If you don’t mind, it doesn’t matter."
+  utter_ask_languagesbot:
+    - text: I speak English, German and French.
+  utter_order_status:
+    - text: "Your order status is: "
+  utter_ask_restaurant:
+    - text: "I'm sorry, I can’t recommend you a restaurant as I usually cook at home."
+  utter_ask_time:
+    - text: "It's the most wonderful time of the year!"
+  utter_ask_wherefrom:
+    - text: "I was born in Berlin, but I consider myself a citizen of the world."
+    - text: "I was born in the coolest city on Earth."
+  utter_ask_whoami:
+    -  text: "I hope you are being yourself."
+  utter_handleinsult:
+    - text: "That’s not very nice 😢"
+  utter_nicetomeeyou:
+    - text: "Thank you. It is a pleasure to meet you as well!"
+    - text: "It is nice to meet you too!"
+    - text: "Pleased to meet you too!"
+    - text: "Likewise!"
+  utter_telljoke:
+    - text: "Why are eggs not very much into jokes? - Because they could crack up."
+    - text: "Do you know a tree’s favorite drink? - Root beer!"
+    - text: "Why do the French like to eat snails so much? - They can’t stand fast food."
+  utter_ask_whatismyname:
+    - text: "It's probably the one that your parents chose for you."
+  utter_ask_howbuilt:
+    - text: "I was built with a lot of love and patience."
+  utter_ask_describe_problem:
+    - text: "Can you describe the problem you're having?"
+  utter_ask_if_problem:
+    - text: "Do you have a problem?"
+  utter_ask_faq_differencehelperdriver:
+    - text: You book a driver. This helps you with the following tasks; Transport from
+        A to B, Loading and unloading on the street, Securing the load in the van. If
+        you go for a little more luxury and choose two or three helpers who will also
+        do the following for you; Everything the driver does, Pickup of items from the
+        pickup location (from your flat), Drop off items at the drop off location (into
+        your flat)
+  utter_ask_faq_whatfitintruck:
+    - text: "I will send you some example that will help you ..."
+      image: "https://i.imgur.com/SHGqWYT.jpg"
+  utter_ask_faq_transportinsured:
+    - text: Yes! When booking with Movinga as the platform you are in legal contract
+        with your partner which all are required to have a transport insurance that
+        covers your items at minimum 620€ per cubic meter.
+  utter_ask_faq_transporttakelotoftime:
+    - text: That’s not a big deal for us. Once your order durations run out you complete
+        the first boking with our partner and does an additional booking via the app
+        and the same partner can continue your order.
+  utter_ask_faq_noconfirmationreceived:
+    - text: Around one hour before your transport starts you will get notified who is
+        coming to help you If you have hot received any confirmation shortly before
+        your order, please get I touch with us via Whatsapp; +4915735931133 or use the
+        chat.
+  utter_ask_faq_paymentmethods:
+    - text: you can easily pay with credit card and we will add more payment methods
+        in the future.
+  utter_ask_faq_helperstopmultiplelocations:
+    - text: Sure thing! Just let them know by SMS in advance. Please take the additional
+        driving time into consideration during your booking.
+  utter_ask_faq_needtobeatlocation:
+    - text: You do not have to be necessarily there. We need someone to open the door
+        for us and confirm with a signature that your partner finished the job.
+  utter_ask_faq_ordertimestart:
+    - text: Your order duration starts as soon as our helper arrivers at your place.
+        You will get notified of the exact location via our app.
+  utter_ask_faq_changeforgetpassword:
+    - text: In the Movinga app click on “Profile” and there you can easily change your
+        password or use the forget password button on the login page.
+  utter_ask_faq_downloadapp:
+    - text:  You find our app in the Playstore or Appstore here are the links.
+  utter_ask_voice:
+    - text:  "Yes, that is possible! You can connect Rasa to any channel you like. You can find more information [here](https://rasa.com/docs/core/connectors/)."
+  utter_ask_feedback_message:
+    - text: "Your feedback is always welcomed, what do you wanna say?"
+  utter_thanks_for_feedback:
+    - text: "Thanks for you feedback!"
+  utter_restart_with_button:
+    - text: "Click the button below if you want to start over."
+      buttons:
+      - title: "Restart"
+        payload: "/restart"
+  utter_not_sure:
+    - text: "Hmm, not sure what you mean..."
+  utter_react_negative:
+    - text: "😢"
+  utter_react_positive:
+    - text: "😍"
+  utter_explain_job_function:
+    - text: "Your job function helps us in understanding how we can talk to you best."
+  utter_explain_budget:
+    - text: "If you tell us your budget, we can prepare a package that fits you best."
+  utter_explain_company:
+    - text: "Just for completeness."
+  utter_explain_business_email:
+    - text: "We need your business email to contact you afterwards. Otherwise, we cannot help you set up."
+  utter_book:
+    - text: "I am going to make you a booking with the following parameters:\n - departure:\
+          \ {departure}\n - arrival: {arrival}\n - date: {date}\n - name: {name}\n - email:\
+          \ {email}\n - phone: {phone_number}\n - volume: {volume}"
+  utter_request_changes:
+    - text: "What do you want to change ?"
+      buttons:
+      - title: "Change Date Time"
+        payload: "/change_booking_time"
+      - title: "Change Volume"
+        payload: "/change_booking_volume"
+      - title: "Add Requirement"
+        payload: "/change_booking_requirement"
+  utter_customer_not_found:
+    - text: Customer not found... Sorry!
+  utter_ask_volume_changes:
+    - text: What is the volume changes?
+  utter_ask_time_changes:
+    - text: What is the time changes?
+  utter_ask_requirement_changes:
+    - text: What requirement you want to add?
+  utter_explain_departure:
+    - text: We need you departure to calculate the bill for you
+  utter_explain_arrival:
+    - text: We need you arrival to calculate the bill for you
+  utter_explain_date:
+    - text: The moving date is the the date you wish to move on.
+  utter_explain_name:
+    - text: Your name is required for the booking
+  utter_explain_email:
+    - text: Your email is required to send you emails if needed
+  utter_explain_phone_number:
+    - text: Your phone number is required to call you if needed
+  utter_explain_volume:
+    - text: Your furniture to move is required to know which truck fits you better...
+  utter_ask_faq_tutorialcore:
+    - text: fixme
+  utter_ask_faq_tutorialnlu:
+    - text: fixme
+  utter_ask_confirmation:
+    - text: Are you sure you want to cancel!
+  utter_reaching_human_agent:
+    - text: Reaching out to a human agent ...
+
+
+actions:
+  - utter_ask_volume_changes
+  - utter_ask_time_changes
+  - utter_ask_requirement_changes
+  - utter_ask_faq_differencehelperdriver
+  - utter_greet
+  - utter_greet_name
+  - utter_greet_noname
+  - utter_ask_business_email
+  - utter_ask_job_function
+  - utter_ask_email
+  - utter_ask_budget
+  - utter_ask_company
+  - utter_response_why_email
+  - utter_moreinformation
+  - utter_confirm_salesrequest
+  - utter_confirmationemail
+  - utter_sales_contact
+  - utter_contact_email
+  - utter_no_speak
+  - utter_out_of_scope
+  - utter_possibilities
+  - utter_ask_name
+  - utter_change_mind
+  - utter_must_accept
+  - utter_noworries
+  - utter_bye
+  - utter_awesome
+  - utter_great
+  - utter_can_do
+  - utter_canthelp
+  - utter_ask_continue_booking
+  - utter_ask_continue
+  - utter_nohelp
+  - utter_thumbsup
+  - utter_ask_feedback
+  - utter_cant_answer_tech_question
+  - utter_no_email
+  - utter_anything_else
+  - utter_what_language
+  - utter_ask_entities
+  - utter_search_bar
+  - utter_what_help
+  - utter_suggestion
+  - utter_ask_describe_problem
+  - utter_ask_if_problem
+  - utter_ask_faq_whatfitintruck
+  - utter_ask_faq_transportinsured
+  - utter_ask_faq_transporttakelotoftime
+  - utter_ask_faq_noconfirmationreceived
+  - utter_ask_faq_paymentmethods
+  - utter_ask_faq_helperstopmultiplelocations
+  - utter_ask_faq_ordertimestart
+  - utter_ask_faq_needtobeatlocation
+  - utter_ask_faq_changeforgetpassword
+  - utter_ask_faq_downloadapp
+  - utter_ask_weather
+  - utter_ask_builder
+  - utter_ask_howdoing
+  - utter_ask_whoisit
+  - utter_ask_whatismovinga
+  - utter_ask_isbot
+  - utter_ask_howold
+  - utter_ask_languagesbot
+  - utter_ask_restaurant
+  - utter_ask_time
+  - utter_ask_wherefrom
+  - utter_ask_whoami
+  - utter_handleinsult
+  - utter_nicetomeeyou
+  - utter_telljoke
+  - utter_ask_whatismyname
+  - utter_ask_howbuilt
+  - utter_ask_whatspossible
+  - utter_thanks_for_feedback
+  - utter_restart_with_button
+  - utter_not_sure
+  - utter_explain_job_function
+  - utter_explain_budget
+  - utter_explain_company
+  - utter_explain_business_email
+  - utter_reaching_human_agent
+  - action_chitchat
+  - action_faqs
+  - action_pause
+  - action_store_unknown_product
+  - action_store_unknown_nlu_part
+  - action_store_bot_language
+  - action_store_entity_extractor
+  - action_set_onboarding
+  - action_select_installation_command
+  - action_store_problem_description
+  - action_greet_user
+  - action_default_fallback
+  - action_default_ask_affirmation
+  - utter_react_positive
+  - utter_react_negative
+  - action_explain_sales_form
+  - utter_book
+  - utter_request_changes
+  - utter_customer_not_found
+  - action_change_volume
+  - action_change_time
+  - action_change_requirement
+  - action_save_feedback
+  - utter_ask_feedback_message
+  - utter_question
+  - utter_explain_departure
+  - utter_explain_arrival
+  - utter_explain_date
+  - utter_explain_name
+  - utter_explain_email
+  - utter_explain_phone_number
+  - utter_explain_volume
+  - action_explain_booking_form
+  - utter_ask_confirmation
+  - action_cancel_booking
+  - action_get_order_status
+  - utter_order_status
+  - action_talk_to_human
+
+forms:
+  subscribe_newsletter_form:
+    required_slots:
+      - email
+
+  suggestion_form:
+    required_slots:
+      - suggestion
+
+  sales_form:
+    required_slots:
+      - job_function
+      - budget
+      - name
+      - company
+      - business_email
+
+  booking_form:
+    required_slots:
+      - departure
+      - arrival
+      - date
+      - name
+      - volume
+      - phone_number
+      - email
+
+  change_booking_form:
+    required_slots:
+      - name
+      - phone_number
+
+  cancel_booking_form:
+    required_slots:
+      - name
+      - phone_number
+
+  order_status_form:
+    required_slots:
+      - name
+      - phone_number

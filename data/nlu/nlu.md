@@ -1,0 +1,1999 @@
+## intent:ask_faq_differencehelperdriver
+- Is it possible you tell me the difference between the helper and the driver?
+- would you tell me the difference between the helper and the driver?
+- can you tell me the difference between the helper and the driver?
+- could you show me the difference between the helper and the driver?
+- is it possible you tell me the difference between the helper and the driver?
+- Can you show me the difference between the helper and the driver?
+- would you show me the difference between the helper and the driver?
+- difference helper and driver please
+- Difference helper and driver if possible
+- Is it possible you show me the difference between the helper and the driver?
+- would you tell me the difference between the helper and the driver?
+- Could you show me the difference between the helper and the driver?
+- Is it possible you tell me the difference between the helper and the driver?
+- Would you show me the difference between the helper and the driver?
+- Would you tell me the difference between the helper and the driver?
+- Can you show me the difference between the helper and the driver?
+- Could you tell me the difference between the helper and the driver?
+- can you show me the difference between the helper and the driver?
+- is it possible you tell me the difference between the helper and the driver?
+- difference helper and driver if possible
+- difference helper and driver please
+- can you tell me the difference between the helper and the driver?
+- Can you tell me the difference between the helper and the driver?
+- would you show me the difference between the helper and the driver?
+- Difference helper and driver if possible
+
+## intent:ask_faq_helperstopmultiplelocations
+- Is it possible the helper stop at different places?
+- could the helper stop at different places?
+- is it possible the helper stop at different locations?
+- is it possible the helper stop at different places?
+- Could the helper stop at different places?
+- Can the helper stop at different places?
+- Would the helper stop at different locations?
+- Could the helper stop at different locations?
+- can the helper stop at different places?
+- would the helper stop at different locations?
+- Can the helper stop at various stations?
+- Could the helper stop at different neighborhoods?
+- Could the helper stop at different stations?
+- Could the helper stop at numerous stations?
+- Is it possible the helper stop at different areas?
+- Would the helper stop at different districts?
+- Would the helper stop at different neighborhoods?
+- Would the helper stop at numerous areas?
+- Would the helper stop at various regions?
+- can the helper stop at different stations?
+- could the helper stop at various neighborhoods?
+- could the helper stop at various regions?
+- could the helper stop at various stations?
+- is it possible the helper stop at numerous regions?
+- would the helper stop at different neighborhoods?
+
+## intent:ask_faq_needtobeatlocation
+- should i need to be at the location the day of the removal?
+- should i need to be at the location the day of the moving?
+- Should i have to be at the location the time of the moving?
+- Do i have to be at the location the day of the removal?
+- should i have to be at the location the day of the removal?
+- do i need to be at the location the time of the removal?
+- do i have to be at the location the day of the removal?
+- do i need to be at the location the day of the moving?
+- should i have to be at the location the day of the moving?
+- Should i have to be at the location the day of the removal?
+- Do i call for to be at the location the moment of the shifting?
+- Do i demande to be at the location the moment of the shifting?
+- Do i desire to be at the location the date of the moving?
+- Do i desire to be at the location the day of the shifting?
+- Do i require to be at the location the time of the removal?
+- Should i call for to be at the location the day of the moving?
+- Should i require to be at the location?
+- do i call for to be at the location the day of the removal?
+- do i demande to be at the location the time of the removal?
+- do i desire to be at the location the date of the shifting?
+- do i desire to be at the location?
+- do i need to be at the location the day of the moving?
+- do i require to be at the location the time of the shifting?
+- should i have to be at the location the date of the removal?
+- should i require to be at the location the day of the removal?
+
+## intent:ask_faq_ordertimestart
+- At what time does my order starts?
+- At what time will the order starts?
+- Could you show me when will the time of the order starts?
+- Is it possible you tell me when does the time of the order starts?
+- When does the time of my order begin?
+- When does the time of the order starts?
+- When will the time of the order begin?
+- at what time will the order begin?
+- when does the time of the order begin?
+- when does the time of the order starts?
+- At what time does my order starts?
+- At what time will my order begin?
+- At what time will the order begin?
+- Can you tell me when does the time of my order begin?
+- When does the time of my order begin?
+- When does the time of the order starts?
+- can you show me when will the time of the order begin?
+- can you tell me when will the time of my order begin?
+- could you show me when does the time of the order begin?
+- is it possible you tell me when does the time of my order begin?
+- when does the time of my order starts?
+- when does the time of the order starts?
+- when will the time of the order starts?
+- would you show me when does the time of my order starts?
+- would you show me when will the time of the order starts?
+
+## intent:ask_faq_transportinsured
+- Is my transport insured?
+- Insurance is included?
+- Is insurance included in your service?
+- Is my transport insured with you?
+- insurance of my transport included in the service or not?
+- Can you show me if I am guaranteed
+- Can you show me if my transport is guaranteed
+- Can you show me if I am warranted
+- Can you show me if my transport is warranted
+- Could you show me if I am covered
+- Could you show me if the transport is covered
+- Could you show me if I am guaranteed
+- Is it possible you tell me if I am covered
+- Is my shipping guaranteed ?
+- Is the transportation protected ?
+- can you tell me if I am warranted
+- could you show me if I am guaranteed
+- is it possible you tell me if I am guaranteed
+- is my shipment covered ?
+- is my shipment guaranteed ?
+- is my shipment warranted ?
+- is my shipping protected ?
+- would you show me if I am warranted
+
+## intent:ask_faq_transporttakelotoftime
+- What happens if my transport takes lot of time?
+- And if my transport take lot of time?
+- What if my transport take alot of time?
+- what to do if the transportation take a lot of time?
+- transportation take too much time
+- wanna know the reason why the transport take more time
+- wanna know the reason why the transport take a lot time
+- wanna know the reason why the transport take alot of time
+- the transport is taking too much
+- the transport is taking a lot of time
+- my order take too much time!
+- too much time for the order
+- much time for my transportation
+- i would like to know why my order is taking a lot of time
+- think there is a problem cause my transport is delayed
+
+## intent:ask_faq_whatfitintruck
+- what does fit in the truck
+- how can i know which truck needed
+- how big is your truck?
+- what does fit in the lorry
+- how to choose the convenient lorry for my transport
+- what fit in the lorry please
+- is your trucks are big enough for my furniture?
+- how huge is your trucks
+- do you have many sizes of trucks
+- do you have many sizes of trucks otr what ?
+- size of trucks please
+- size of lorry please
+- how much lorry or truck size do you have
+- is your truck big or meduim or small
+- could you send me a picture of the size of your trucks
+- could you send me a picture of the size of your trucks please?
+- can you send me a picture of the size of your trucks
+
+## intent:ask_faq_paymentmethods
+- How can i pay
+- how to pay
+- how to make payment
+- what is the possible payment methods
+- can i pay by card?
+- how payment works?
+- can I pay per cash?
+- can i pay by master card?
+- payment method
+- payment method please
+- how may I send you the payment
+- how may I send you the fees
+- how may I pay you?
+- how many payment methods do you have?
+- can I pay online
+- should I pay online
+- on line payment works
+
+## intent:ask_faq_noconfirmationreceived
+- I didn't received any confirmation
+- I did not received my confirmation
+- No confirmation received
+- I didnt received any confirmaion
+- didn't received the confirmation yet!
+- i did not received any confirmation
+- i did not received any confirmation until now
+- I did not received any confirmation until the moment
+- where is my confirmation?
+- where can i find my order confirmation
+- I did not get my confirmation
+- no confirmation received yet
+- i havn't receive the confirmation
+- i need my order confirmation please
+- i need my order confirmation.
+- my booking confirmation is not received
+- the transport confirmation isn't received
+- send me the approval
+- I didn't received any approval
+- i did not received my approval
+- No affirmation received
+- didn't received the affirmation yet!
+- i did not received any affirmation
+- i did not received any affirmation until now
+- I did not received any approval until the moment
+
+
+## intent:ask_faq_changeforgetpassword
+- i want to change my password
+- i forgot my password
+- how to change my password please
+- how to change the password
+- unfortunately, i forgot my password
+- I’ve lost my password!
+- I have lost my password
+- i forget my password
+- my password is forgotten
+- wanna change my password because i forget it
+- change me the password
+- how may i change the password
+- Unfortunately, i forgot the password
+- i forget the pass word
+- i lost my login password
+- I have lost the login password, what should I do?
+- wanna reset my password
+- i want to reset the password
+- I would like to reset my login password
+
+## intent:ask_faq_downloadapp
+- i want to download the mobile app
+- i want to download the app
+- how to download the application
+- how can i download the app
+- download your application please
+- how to download the mobile app
+- how can i download the mobile app
+- how to download the mobile application
+- how can i download the mobile application
+- the link for the mobile app
+- where can i find movingas app
+- where can i download movinga's app
+- Where can i find movingas application
+- Where can i download movinga's application
+- do you have an app in app store
+- how to download the application please
+- do you have an IOS app
+- do u have an android app
+- is there an application for iphone
+- where to download your app plesae??
+
+## intent:ask_howbuilt
+- How were you built?
+- How were you made?
+- Tell me how you were made?
+- Let me know how you were made exactly
+- I'd like to know how you were created
+- Can you give me an idea as to how you were created?
+- I want to know how you were formed
+- What was the process for making you?
+- Can you explain how you were created?
+- Specify how you were created?
+- I'd like to know how you were put together?
+- Can you say how you were constructed?
+- How were you made?
+- in what way were you made?
+- How were you made into who you are?
+- How were you devised?
+- How exactly were you made?
+- How exactly were you devised?
+- so how were you made?
+- How did you come to be?
+- How were you made?
+- How were you constructed?
+- How were you formed?
+- How did they make you?
+- How did they build you?
+- How did they create you?
+- How were you made?
+- Do you know how you were made?
+- Do you know how you were built?
+- What process was used to create you?
+- What process was used to build you?
+- How did you come into being?
+- How were you conceived?
+- In which manner were you devised?
+- How were you constructed?
+- In what way were you shaped?
+- How were you formed?
+- By what means were you made?
+- You originated through what means?
+- How were you set up?
+- By what method were you fashioned?
+
+## intent:ask_howold
+- whats your age?
+- how old?
+- what's your age?
+- when were you born?
+- what is your birthday?
+- when is your birthday?
+- how many years old are you?
+- do you know how old you are?
+- what is your exact age?
+- what year were you born?
+- can you tell me your age?
+- What is your age?
+- What is your birthdate?
+- How old will you be on your next birthday?
+- When do you celebrate your day of birth?
+- How old were you on your last birthday?
+- How many candles were on your last birthday cake?
+- Do you have friends the same age as you, if so, how old are they?
+- Tell me your day, month and year of birth.
+- Whats your age?
+- and you are how many years old?
+- whats your birth year?
+- what age were you when you celebrated your last birthday?
+- how old were you when you celebrated your last birthday?
+- tell me your age?
+- how about your age
+- how old were you on your last birthday?
+- what age are you
+- how old will you be this year?
+- What is your age?
+- What year were you born?
+- How long have you been around?
+- How long have you been alive?
+- What was your age on your last birthday?
+- What will be your age on your next birthday?
+- How many years have you lived?
+- How many years have you been alive?
+- How long have you occupied the earth?
+
+## intent:ask_isbot
+- are you a bot?
+- are you a real bot?
+- are you a bot
+- are you really a bot
+- are you a robot
+- are you a robot
+- are you a rasa bot?
+- are you a rasa bot?
+- what are you, a bot?
+- tell me, are you a bot?
+- are you a Skynet ?
+- are you a chatbot
+- are you ai
+- are you artificial intelligence
+- are you artificial
+- i guess you are a chatbot
+- you are a robot
+- you are ai
+- you are chatbot
+- are you bot
+- are you a bot ?
+- you're a bot
+- Are you the bot?
+- Hi there, are you the bot?
+- Are you a chat bot?
+- are you rasa bot?
+- Ar you a bot ?
+- are you robot
+- are you real
+- What are you ?
+- So I'm here Today to ask one very simple question, what are you ?
+- are you real lol
+- cuz you are a bot
+- are you bot?
+- oh are you chatbot?
+- are you sure that you're a bot?
+- are you a BOT
+
+## intent:ask_languagesbot
+- Which languages do you speak?
+- What are the languages you can speak?
+- In which languages can you speak?
+- What languages do you know?
+- What languages are you fluent in?
+- In which languages are you fluent?
+- What languages can you converse in?
+- What languages do you know how to use?
+- Which languages are you familiar with?
+- What languages can you use?
+- what languages are you familiar with?
+- what languages you know?
+- In what languages are you fluent enough?
+- what languages you can speak ?
+- what languages are you comfortable speaking at?
+- what languages are you good at speaking?
+- what languages you are well versed ?
+- what languages you can be comfortable speaking?
+- what languages you prefer more speaking at?
+- what languages you can handle well?
+- Do you know any other languages?
+- Do you speak any other languages?
+- What languages do you know?
+- What languages do you speak?
+- What do you speak?
+- Speak any other languages?
+- Can you communicate in any other languages?
+- What languages can you communicate in?
+- How many languages do you know?
+- what languages do you know?
+- tell me some languages you know?
+- do you speak any other languages?
+- what else do you know besides English?
+- are you bilingual?
+- are you multilingual?
+- what foreign languages do you know?
+- what foreign languages are you fluent in?
+
+## intent:ask_restaurant
+- restaurants
+- can i be shown a gluten free restaurant
+- i want a french restaurant
+- i'm looking for a Chinese restaurant
+- I need a new restaurant
+- help me find restaurant
+- I'm gonna need help finding a restaurant
+- Hey help me find a restaurant
+- How can you help me find a restaurant.
+- Where is the restaurant
+- Show me how to find a restaurant
+- I need to find this restaurant
+- Help me with finding this restaurant
+- Hey, can you help me with locating this restaurant.
+- Find me a place to eat
+- Can you recommend a restaurant open right now
+- What's the closest restaurant open near me
+- I am hungry, find me some place to go
+- Suggest me a good restaurant around
+- Show me the closest open restaurant
+- What's a good place to eat nearby
+- Recommend me a restaurant around here.
+- Pick a restaurant for me, please
+- Help me find a restaurant
+- Can you find a restaurant for me?
+- Find a restaurant for me?
+- Would you find me a restaurant?
+- Would you find a restaurant for me?
+- Could you find me a restaurant?
+- Could you find a restaurant for me?
+- Could you find me a restaurant to eat at?
+- Find a restaurant for me to eat at.
+- Find me a restaurant where I can eat.
+- Find a restaurant for me where I can eat.
+- I need a restaurant.
+- Can you find me a restaurant?
+- Where should I eat?
+
+## intent:ask_time
+- what is the current time?
+- what is the time in Sydney?
+- whats the time now
+- what is the time ?
+- what is time in US ?
+- what is time is US ?
+- what is time is USA ?
+- what time it is
+- What is the time?
+- Can you give me the time?
+- Time?
+- Do you know the time?
+- Can you tell the time?
+- Give me the time.
+- Tell me the time.
+- Could you tell me what time is it?
+- Excuse me, what time is it?
+- Do you know what time it is?
+- Could you tell me the time?
+- Could you tell me the time, please?
+- What is the time?
+- Do you know the time?
+- Would you tell me what time it is?
+- Time, please!
+- Pardon me, but do you know the time?
+- Time?
+- What's the time?
+- Do you know what time it is?
+- What's the current time?
+- What time is it right now?
+- Do you have the time?
+- Can you tell me what time it is?
+- Hi, I need the time.
+- I need to know what time it is.
+- Tell me the time.
+- What is the time?
+- What's the time right now?
+- What is the current time?
+- Can you tell me the time?
+- What might the time be?
+- What is the hour and minute right now?
+- What time have we got?
+- What time is it right now?
+
+## intent:ask_whatismyname
+- what is my name?
+- May i know my name?
+- What is my name?
+- What do I call myself?
+- Tell me my name.
+- Explain my name to me.
+- What could be my name?
+- What name do I go by?
+- What name should I recognize for myself?
+- what's my name?
+- can you tell me my name?
+- What is my name?
+- Do I have a name?
+- Do I have a name? What is it?
+- What was I named?
+- Say my name.
+- Do you know my name?
+- What do people call me?
+- Can you tell me my name?
+- What else do people call me?
+- I have a name, what is it?
+- Tell me my name
+- I'd like to know my name
+- Inform me what my name is
+- Please let me know what my name is
+- Can you tell me what I am called?
+- I'd like to know what my name is
+- What is the name I was given?
+- What does everyone call me?
+- What am I called?
+- What did my parents name me?
+- What do my colleagues call me?
+- What would be the name on my tombstone?
+- Do you know what my name is?
+- What is my first name?
+- What is my full name?
+- What do people call me?
+- What exactly is my name?
+
+
+## intent:ask_wherefrom
+- where do you live
+- where are you from?
+- So where are you from
+- Where are you?
+- Where were you born?
+- What city were you born in?
+- Where did you grow up?
+- What state were you born in?
+- What country were you born in?
+- Where do you come from?
+- Where were you at before you were here?
+- Where from?
+- Do you know where you come from?
+- where's your home town?
+- what country are you from?
+- are you from around here?
+- where did you grow up?
+- where are your parents from?
+- where did you spend your youth?
+- where did you come from?
+- Where were you born?
+- Where do you consider home?
+- What city do you claim to for your birth?
+- What citizenship do you lay claim to?
+- What is your heritage?
+- What is your birthplace?
+- Where did you grow up?
+- You were conceived in what location?
+- What is your root?
+- What is your origin?
+- From where did you come?
+- Where did you come from?
+- Where did you originate?
+- Where are your roots?
+- Where are your origins?
+- What area are you from?
+- What location are you from?
+- What's the name of the place you came from?
+
+## intent:ask_whoami
+- Who am I?
+- Okay who am I?
+- WHo am I
+- Tell me who am I?
+- Tell me who I am?
+- Do you know who I am?
+- Can you tell me who I am?
+- How do I discover who I am?
+- How can I determine who I am?
+- Do you know who am I?
+- Can you tell me who am I?
+- How do I discover who am I?
+- How can I determine who am I?
+- who are I ?
+- who may i ?
+- Shall i know who am i?
+- Tell me who I am.
+- How do I identify myself?
+- Who could I be?
+- tell me who I am?
+- what's my identity?
+- tell me what my identity is?
+- can you tell me what I am?
+- can you tell me what my identity is?
+- can you tell me who I am?
+- who am i
+
+## intent:ask_builder
+- can you share your boss with me?
+- i want to get to know your owner
+- i want to know the company which designed you
+- i want to know the company which generated you
+- i want to know the company which invented you
+- i want to know who invented you
+- May I ask who invented you?
+- please tell me the company who created you
+- please tell me who created you
+- tell me more about your creators
+- tell me more about your founders
+- which company brought you into existence?
+- which company created you?
+- which company invented you?
+- Who's your boss?
+- Who's your builder?
+- Who built you?
+- Who created you?
+- Who is your creator?
+- Who designed you?
+- who do you work for?
+- Who fabricated you?
+- Who generated you?
+- who had the idea to build you?
+- who had the idea to generate you?
+- who had the idea to make you?
+- who is behind all this?
+- Who is the legal owner of you?
+- who is your boss tell me
+- who is your boss?
+- who is your creator?
+- Who is your programmer?
+- Who made you?
+- Who modeled you?
+- Who owns you?
+- Who produced you?
+- Who thought to make you?
+- Who went through the trouble of setting you up?
+- and who built u?
+- who built you?
+- who build yoi
+- who made you?
+- where were you made?
+- why were you made?
+- how were you made?
+- who created you?
+
+## intent:ask_howdoing
+- Ahoy matey how are you?
+- are you alright
+- are you having a good day
+- Are you ok?
+- are you okay
+- Do you feel good?
+- how are things going
+- how are things with you?
+- How are things?
+- how are you
+- how are you doing
+- how are you doing this morning
+- how are you feeling
+- how are you today
+- How are you?
+- how do you do?
+- how have you been
+- how is it going
+- how is your day
+- how is your day going
+- how is your evening
+- How was your day?
+- How's it going
+- How's it hanging?
+- how's life
+- how's life been treating you?
+- How's life treating you friend?
+- how's your day going
+- How've you been?
+- I'm fine and you
+- is everything all right
+- Is everything ok?
+- is everything okay
+- what about your day
+- What's going on?
+- what's good
+- What's new?
+- What's up man
+- What's up
+- how are you?
+- Do you have a great day?
+- how are you doing today my sweet friend
+- how are you doing?
+- how are u
+- How are you?
+
+## intent:ask_weather
+- How is the weather today?
+- What's the weather like?
+- How is the weather?
+- What is the weather at your place?
+- Do you have good weather?
+- Is it raining?
+- What's it like out there?
+- Is it hot or cold?
+- Beautiful day, isn't it?
+- What's the weather forecast?
+- Is it quite breezy outside?
+- Will I require my raincoat today?
+- What is the weather for tomorrow?
+- Nice day out today?
+- What is the temperature today?
+- Can we expect any thunderstorms?
+- Will the skies be clear today?
+- Are we in for a scorcher?
+- Looks like a beautiful day hey?
+- Will we build a snowman today?
+- Is it humid out there today?
+- Are there any meteorological changes that I need to be aware of?
+- whats the weather like tomorrow
+- hows the weather in bot world
+- how is the weather in berlin?
+- what's the weather today?
+- how's the weather?
+- what's the weather like where you are?
+- is the sun out where you are?
+- is it sunny
+- is the sun out where zou are?
+- what"s the weather
+- whats the weather in berlin?
+- how's the weather in berlin
+
+## intent:ask_whatismovinga
+- How does Movinga work?
+- Can you tell me more about Movinga?
+- What does Movinga build?
+- What do you do at Movinga?
+- What is Movinga?
+- What does Movinga make?
+- Can you tell me what Movinga does?
+- Give me more information about Movinga
+- what does Movinga do?
+- I want to learn what Movinga does
+- What does Movinga do exactly?
+- tell me more about Movinga
+- tell me more about your company
+- tell me more about Movinga
+- I want to learn what Movinga is
+- what can i do with Movinga
+- what do you guys do at Movinga
+- what does Movinga do
+- what is Movinga
+- I want to know what Movinga actually does that isn't clear to me yet
+- i havent understood yet what Movinga actually is
+- can you pls explain what Movinga does
+- explain me what Movinga does
+- explain me what Movinga is
+- i dont get what Movinga is
+- what is Movinga actually
+- what is Movinga?
+- i want to learn something about Movinga
+- i want to know what Movinga does
+- what is Movinga core?
+- what can i build with Movinga core?
+- What is Movinga doing exactly?
+- What do you do as a company?
+
+## intent:ask_whatspossible
+- help
+- help please
+- i don't know what i want
+- I need some help
+- options
+- show me the menu
+- show me what's possible
+- so what can you do
+- so what can you help me with?
+- what are you good at?
+- what can I do here
+- what can I do with this bot
+- what is this bot for
+- cool! can I do something else here?
+- help me
+- talk to me!
+- come back
+- how can you help me
+- what else can i do
+- are there any other options?
+- hm that doesnt quite help me is there anything else you can do?
+- what can i do here
+- what can i do now
+- um what now
+- so now what
+- help?
+- now what?
+- Great, is there anything else you can do, bot?
+- what can you do?
+- how can you help me?
+- can you do anything else?
+- i asked you if you can do anything else
+- anything els
+- so what next?
+- what else can I do here?
+- Can you explain me in one sentence what you are doing?
+- what are the options?
+
+## intent:ask_whoisit
+- who is this
+- who am i talking to
+- what's your name
+- who am i speaking with
+- who r u
+- what's your name bot
+- whats ur name
+- what are you called?
+- who is talking?
+- who speaks?
+- who talks?
+- who are you and what do you want from me
+- who are you?
+- who is it?
+- who are u?
+- who are you
+- I want to know who you are
+- who are y
+- yes but who are you in your heart
+- are you a bot?
+- who is this?
+- hi! what's your name?
+
+## intent:bye
+- goodbye
+- goodnight
+- good bye
+- good night
+- see ya
+- toodle-oo
+- bye bye
+- gotta go
+- farewell
+- catch you later
+- bye for now
+- bye
+- bye was nice talking to you
+- bye udo
+- bye bye bot
+- bye bot
+- k byyye #slay
+- tlak to you later
+- ciao
+- Bye bye
+- then bye
+- tschüssikowski
+- bye!
+
+## intent:canthelp
+- ok then you cant help me
+- that was shit, you're not helping
+- you can't help me
+- you can't help me with what i need
+- i guess you can't help me then
+- ok i guess you can't help me
+- that's not what i want
+- ok, but that doesnt help me
+- this is leading to nothing
+- this conversation is not really helpful
+- you cannot help me with what I want
+- I think you cant help me
+- hm i don't think you can do what i want
+- stop
+- stop go back
+- do you get anything?
+- and you call yourself bot company? pff
+- and that's it?
+- nothing else?
+- stop please please
+- no no no stop
+- wtf
+- what the fuck
+- i dont need you
+- i am out
+- take me out
+- i dont want to make it
+- I do not wanna continue
+- i am afraid you cant help
+
+## intent:want_to_book
+- I wanna book.
+- I want to book
+- I want to book for my moving
+- I wanna to book for my moving
+- i want to book please
+- want to book
+- wanna book
+- want to book for my moving
+- wanna book for my moving
+- i want to book
+- I am moving my office from [Passau](location) to [Munich](location) and I want to book
+- I am moving my office from [Mainz](location) to [Ulm](location) and I want to book
+- I am moving my office from [Würzburg](location) to [Oldenburg](location) and I want to book
+- I am moving my office from [Regensburg](location) to [Ingolstadt](location) and I want to book
+- I am moving my office from [Dresden](location) to [Hannover](location) and I want to book
+- I am moving from [Mannheim](location) to [Frankfurt](location) and i wanna book
+- I am moving from [Stuttgart](location) to [Düsseldorf](location) and i wanna book
+- I am moving from [Cologne](location) to [Bremen](location) and i wanna book
+- I am moving from [Dortmund](location) to [Heidelberg](location) and i want to book
+- I am moving from [Augsburg](location) to [Bielefeld](location) and i want to book
+- i wanna book
+- I wanna book a moving with you
+- i am moving from [Münster](location) to [Freiburg](location) and I wanna book
+- I am moving from [Osnabrück](location) to [Erfurt](location) and i wanna book
+- I am moving from [Berlin](location) to [Warendorf](location) and i wanna book
+- i would like to book
+- i would like to book for a moving
+- i am moving from [Bonn](location) to [Hanover](location), I would like to make a booking
+- I am moving from [Neuburg](location) to [Naumburg](location) and i wanna book
+- I am moving from [Landshut](location) to [Homburg](location) and i wanna book
+- booking please
+- can i book from here?
+- is it possible to make a booking?
+- i wanna reserve for my moving
+
+## intent:change_booking
+- I wanna change my booking.
+- I want to change my booking
+- change my booking
+- i want to change my booking please
+- i want to change my booking date
+- i want to change ym booking volume
+- I want to edit my information
+- I want to edit my informations
+- I want to edit my booking information
+- I want to edit my booking informations
+- I want to edit my moving information
+- I want to edit my moving informations
+- Edit information
+- edit my informations
+- edit booking
+
+## intent:cancel_booking
+- i want to cancel my booking
+- i want to cancel the booking
+- cancel booking
+- i want to cancel
+- cancel me the booking
+- i would like to cancel my booking
+- i would like to cancel the booking
+- cancel cancel
+- wanna cancel
+- delete my reservation
+- delete please my reservation
+- could you please delete my reservation for the booking
+- No i changed my mind and i wanna cancel my booking
+- ok cancel me the booking
+- No i changed my mind and i wanna cancel my booking
+
+## intent:order_status
+- what is my order status
+- status order
+- status of my order
+- status of my order please
+- what is my status order please
+- can i see the status of my order
+- can i see the status of my order please
+- order status
+- order status please
+- i wanna know the status of my order
+- booking status
+- what is my booking status
+- i want to know the status of my order
+- i wanna see my order status first
+- i wanna see my status order
+- please tell me my reservation status
+
+## intent:contact_sales
+- I wanna talk to your sales people.
+- I want to talk to your sales people
+- I want to speak with sales
+- Sales
+- Please schedule a sales call
+- Please connect me to someone from sales
+- I want to get in touch with your sales guys
+- I would like to talk to someone from your sales team
+- sales please
+- I want to talk with sales about our project
+- I want an offer for your platform
+- I wanna have a subscription for your product
+- I want to learn more about your pricing
+- I want to talk to someone about your pricing system
+- give me someone who can explain your business model
+- have a call with the sales team
+- let me talk to your sales guys
+- sales
+- I want a sales call
+- I want to contact the sales team
+- I want to talk to your sales guys
+- i want to contact your sales team
+- I also want to book a sales call
+- I want to contact sales
+- I want to book a call with your sales team
+- contact sales
+- i want to contact sales
+- id like a call please
+- I would like to have a call with sales team
+- i want someone to call me
+-  request a call
+- request a call
+- I want to talk to sales
+- i'd like to talk to a sales person
+- But I wanted a sales call
+- I wanna talk to your sales guy
+- id like to talk to someone who can explain me what i can do with Movinga
+- can someone help me with infos about Movinga
+- I want information about the platform
+- how does your pricing work?
+- are there different packages customers can book?
+- please provide information on your enterprise package
+- i need to know how i can book support
+- let me talk to your sales people
+- I want to learn more about your pricing
+- contact sales
+- i want to contact sales now
+- let me contact sales
+- connect to sales
+- connect me to your sales department
+- sales department
+- can you connect me to sales
+- i want to be connected to your sales team
+- sales team connection
+- connect to the sales team
+- i want to connect your sales
+- i need to speak to your sales team
+- can i talk to a sales representative
+- i want to connect to sales
+- get me the sales team
+- sales contact
+- contact sales for me
+- next the sales contact
+- please connect me to sales
+- i need to talk to sales
+- i want to be in touch with sales
+- call with sales team
+- i want to have a call with sales
+- let me call the sales team
+- i need a call from sales
+- request sales call
+- request call
+- i need the call request
+- let me have the call
+- i want to call
+- call sales
+- request call with sales team
+- contact call with sales
+- sales team
+- request sales team
+- contact to sales
+- i choose the call
+- i choose the call with sales
+- have a call
+- call
+- I would like to have a demo scheduled
+- but I want a sales call
+- Can I have a call tomorrow at 3pm?
+- i want to learn more about Movinga
+- book a call
+- sales sales sales
+- book a sales call
+- i think I want to talk to your sales folks
+- just gimme a call
+- ok i want to talk to your sales guys
+- i want to connect to your sales team
+- i want a sales call
+- sales call
+- I would like to contact your sales team please
+- Ok I want to talk to your sales team immediately
+- hm ok then i want to talk to the sales dude
+- i want to talk to sales
+- a call
+- let' contact sales now
+- obviously talk to your awesome sales team
+- hmmm sales
+- ok sales
+- let me talk to sales
+- sales pl
+- lets talk to sales
+- let me talk to your sales people!
+- can i talk to your disagreeable sales man?
+- can i get a ssales call
+- can i speak to the sales team
+- talk to sales team
+- I want to talk to your sales team
+- Can I have a call?
+
+## intent:deny
+- no
+- definitely not
+- never
+- absolutely not
+- i don't think so
+- i'm afraid not
+- no sir
+- no ma'am
+- no way
+- no sorry
+- No, not really.
+- nah not for me
+- nah
+- no and no again
+- no go
+- no thanks
+- decline
+- deny
+- i decline
+- never mind
+- nevermind
+- I'm not giving you my email address
+- no I haven't decided yet if I want to sign up
+- I don't want to give it to you
+- I'm not going to give it to you
+- no i don't accept
+- no!!!!
+- no you did it wrong
+- no i can't
+- i'm not sure
+- NEIN
+- nein
+- not really
+- i guess it means - no
+- i don't want to
+- i don't want either of those
+- nah thanks
+- neither of these
+- i changed my mind
+
+## intent:enter_data
+- [Jenny](name)
+- [Jim Halpert](name)
+- my name is [saswat](name)
+- [Akela](name)
+- My name is [Alex](name)
+- I'm [Akela](name)
+- [philipp](name)
+- [Elise](name)
+- [Vladimir](name)
+- [Freya](name)
+- [linda](name)
+- [Jacqueline](name)
+- it's [Ali Park](name)
+- My name is [Tom](name)
+- [sam](name)
+- [Juste](name)
+- my name is [jimmy](name)
+- my name is [jimmy philipp](name)
+- my name is [sou](name)
+- my name is [christian kaiser](name)
+- my name is [kaiser](name)
+- my name is [christian](name)
+- my name is [mueller](name)
+- my name is [john doe](name)
+- i am [Elise](name)
+- i am [Vladimir Putin](name)
+- i am [Freya](name)
+- i am [linda](name)
+- i am [Jacqueline](name)
+- i am [Alan](name)
+- i want to order more boxes
+- i want to order more packing
+- wanna order more packing material
+- order 3 more boxes
+- more 5 boxes please
+- tell the driver to park near the home
+- tell the driver to do that and that
+- i want the lorry to park in front of my house please
+- change the time to next friday
+- change the time to next monday
+- change the date to next sunday
+- change the moving date to next saturday
+- to next friday
+- next monday
+- to next sunday
+- wanna move more
+- i would like to move more oov
+- i wont be at home and you will find my wife
+- [Berlin](location)
+- [Munich](location)
+- from [Hamburg](location)
+- from [Essen](location)
+- from [Bremen](location)
+- from [Passau](location)
+- from [Paris](location)
+- to [Cologne](location)
+- to [Bremen](location)
+- to [Passau](location)
+- to [Paris](location)
+- [TV](furniture)
+- wanna move my [Piano](furniture)
+- [Sofa](furniture)
+- add a [Stool](furniture)
+- add a [Bench](furniture)
+- add a [Bunk bed](furniture)
+- add a [Bed](furniture)
+- add a [Billiard table](furniture)
+- add a [Table](furniture)
+- a [sofa, 3 bed rooms and a big TV](furniture)
+- a [television and a data show](furniture)
+- i don't know exacly but a [full big room](furniture)
+- maybe a [small room](furniture)
+- one [small room](furniture)
+- [the chair](furniture)
+- [hree beds and two sofas](furniture)
+- add 3 [Bed](furniture)
+- add two [Billiard tables](furniture)
+- add 10 [Tables](furniture)
+- a [sofa and big TV](furniture)
+- my [television and a data show](furniture)
+- [Bed and dining room](furniture)
+- multiple [Armoire](furniture)
+- 100k
+- 240k/year
+- 150,000$/ year
+- around $500,000 per year
+- we plan with 250.000 euro for one year
+- bout 4,000,000 INR
+- 50,000,000 INR
+- 60 million INR
+- we think 4 million INR/ year
+- between 100 to 200.000
+- 50,000 dollar
+- not sure yet, we plan with 50 thousand euro at the moment
+- 75000-150000 euro
+- our estimation is 10k
+- I work for [Bayer](company)
+- The name of the company is [Daimler](company)
+- company: [uber](company)
+- it's a small company from the US, the name is [Microsoft](company)
+- it's a tech company, [apple](company)
+- [microsoft](company)
+- [clue](company)
+- [SAP](company)
+- [IBM](company)
+- [t-mobile US](company)
+- [vodafone](company)
+- [accenture](company)
+- [McKinsey Germany](company)
+- [BCG brazil](company)
+- [BCG digital ventures](company)
+- I work for [Stanford University](company)
+- [Esslingen](location)
+- [Pfarrkirchen](location)
+- from [Toulouse](location)
+- from [Bordeaux](location)
+- from [Saint-Étienne](location)
+- to [Strasbourg](location)
+- to [Mulhouse](location)
+- maxmeier@firma.de
+- bot-fan@bots.com
+- maxmeier@firma.de
+- bot-fan@bots.com
+- my email is email@rasa.com
+- my email is markjobs@ibm.com
+- my email is khardik.kmosu@bol.net.in
+- my business mail is mikemiller@sales.apple.com
+- email = stephanywhite@microsoft.com
+- mail: julianfrank@hotmail.com
+- santaklaus@googlemail.com
+- saswatkarhar@rediffmail.com
+- nerd@stanford.edu
+- alexander.denker@tu-berlin.de
+- sislawawa@india.com
+- chengming@aliyun.com
+- solomq122@qq.mail.com
+- it's foo@bar.com
+- 10000000
+- i have a [Gateleg table](furniture)
+- it is [Poker table](furniture)
+- we have [Trestle table](furniture)
+- add a [TV tray table](furniture)
+- a[TV](furniture)
+- four [Piano](furniture)
+- a lot of[Wine table](furniture)
+- three [Washstand](furniture)
+- one [Workbench](furniture)
+- it is  [Baker's rack](furniture)
+- a [Bookcase](furniture)
+- two [Cabinetry](furniture)
+- my furniture is [Bathroom cabinet](furniture)
+- my furniture is [Chifforobe](furniture)
+- add a [Closet](furniture)
+- wanna add [Cupboard](furniture)
+- want to transport [Curio cabinet](furniture)
+- i have a [Hutch](furniture)
+- we also have [Hoosier cabinet](furniture)
+- add a [Kitchen cabinet](furniture)
+- also [Liquor cabinet](furniture)
+- a [Pantry](furniture)
+- a [Pie safe](furniture)
+- ten [Chest of drawers or dresser](furniture)
+- more [Chest](furniture)
+- add me more [Cellarette](furniture)
+- it is [Hope chest](furniture)
+- we have [ACME Mops](company)
+- mrmop@mops.app
+- loretta@strawberry-ice.come because I work in the department for strawberry ice
+- the ice cream factory is the company
+- not sure yet
+- 2 euro
+- [Bosch](company)
+- I'm a [python developer](job_function)
+- hello@hello.com
+- I'm a [machine learning engineer](job_function)
+- we don't have one
+- hi@rasa.com
+- [Helvetia](company)
+- I'm a [software engineer](job_function)
+- [douglas](company)
+- 5 euros
+- i'm a [race car driver](job_function)
+- klausimausi@apple.com
+- i am [self emplayed](job_function)
+- a sentient robot
+- [rasa](company)
+- i have none
+- akela@philipp.com
+- oov
+- My budget is oov
+- My email is oov
+- oov per year
+- the name of the company is oov
+- I work for oov
+- help@help.com
+- i'm a [developer](job_function)
+- 200k
+- test@test.com
+- 2000k
+- 20k
+- [developer](job_function)
+- [Developer Advocate](job_function)
+- [reddit](company)
+- philipp@thephilippcompany.com
+- [philipp company](company)
+- joey@koolmanconsulting.com
+- myemail@gmail.com
+- 123@skdv.fvsdj
+- i don't have one
+- have no idea
+- I do not know yet
+- ulrikovitcheisenkleber@eisenkleberlimitedcokg.com
+- eisenkleber limited co kg
+- ulrikovitch eisenkleber
+- don't have one
+- [designer](job_function)
+- a pizza bot
+- operations
+- no idea
+- around 200k
+- i'm a [dev](job_function)
+- i don't have it
+- [product manager](job_function)
+- help@rasa.com email
+- i wanna build all the bots
+- i'm a [product manager](job_function)
+- 300k number
+- i work in [biz dev](job_function)
+- my email is kevin@yoloooz.de
+- [ceo](job_function)
+- 200000000
+- linda@mail.com
+- none
+- i don't know
+- [Zendesk](company)
+- 123@gmail.com
+- udo@udo.ai
+- hey@kldpeffesfoken.oinwf
+- [head of biz deve](job_function)
+- [Udo.AI](company)
+- maybe then instead alex+rasarasa@rasa.com
+- can you try alex+123@rasa.com instead?
+- linda@yoloyolo.de
+- a good one?
+- elise@gmail.com
+- a customer service support system
+- I'm the boss
+- 90k
+- my function is [to serve butter](job_function)
+- [wurst co kg](company)
+- [No company](company)!!
+- [I am a freelancer](company)
+- [Foudner](job_function)
+- linda@linda.com
+- i'm in [customer success](job_function)
+- i'm [head of sales](job_function)
+- [linda's company](company)
+- i'm in [sales](job_function)
+- I work for the [New York Times](company)
+- the [New York Times](company)
+- 1 million
+- I'm an [engineer](job_function)
+- 2 million
+- ali@nytimes.com
+- I work for the [new york times](company)
+- I work at the [NYT](company)
+- there is no budget
+- i'm a [develope](job_function)
+- lead generation
+- 100000
+- im in [marketing](job_function)
+- linda@rasa.ai
+- yesplease@yes.com
+- 500k
+- I'm a [business woman](job_function)
+- 0
+- im a [developer](job_function)
+- a great one
+- propella@daskapital.de
+- [Bolschewistische Kurkapelle Schwarz-Rot](company)
+- schlabberjimmy@glibberglitter.edu
+- i'm a glibber and glitter salesman
+- schnuffelknuddelbaerchen33@rasa.de
+- i have about 200 bucks in my savings account
+- None
+- 200 bucks
+- bigassnerd@rasa.com
+- like 60 quid
+- nothing
+- tamedmouse@micerevolution.fr
+- volodimir@rasa.com
+- idk
+- I am [beltz](name)
+- I am [baum](name)
+- I am [bosch](name)
+- I am [brun](name)
+- I am [Mr esser](name)
+- my name is [linden](name)
+- my name is [loris](name)
+- my name is [oliver](name)
+- my name is [peter](name)
+- my name is [richard](name)
+- [ml researcher](job_function)
+- junk@junk.com
+- j@p.com
+- i don't think either of those
+- ok I'm actually an [engineer](job_function)
+- al@acme.org
+- [ACME brands](company)
+- £50k
+- the bot should help with HR stuff
+- I'm a bot [developer](job_function)
+- none@none.co.uk
+- 50
+- I am a [Data Scientist](job_function)
+- I am a [head of business intelligence](job_function)
+- my own
+- $1
+- juste@juste.com
+- 1 euro
+- [developer advocate](job_function)
+- shiba@shiba.com
+- tylerthemateman@clubmate.com
+- [Tyler](company)
+- I'm a [construction worker](job_function)
+- 1 million big ones
+- [Club Mate](company)
+- me@me.com
+- herbert@gmail.com
+- Herbert
+- 10 m
+- chief lemonade officer
+- 500 million
+- half a million
+- [AI researcher](job_function)
+- hi@elise.de
+- ulle@gmx.de
+- [CSI](company)
+- 5 quid
+- me@you.de
+- i am a [projject manager](job_function)
+- 120000
+- akela@akela.com
+- akela's company
+- one billion
+- i'm in [marketing](job_function)
+- ACME bank (company)
+- about 10 k
+- im a [dev](job_function)
+- 10
+- I'm a real good [engineer](job_function)
+- ames@rasa.com
+- valid_email@one.de
+- valid@one.email
+- unemployed
+- on that will get me promoted
+- I spend money
+- it's 500000000
+- 123@akela.com
+- jimmy neutron industries
+- ok its email@email.com
+- Im a [full stack developer](job_function)
+- akelaistcool@schwabenländle.de
+- im a [freelancer](job_function)
+- health care
+- i want the lorry to park in front of my house please
+- I am [rosenberg](name)
+- I am [sachs](name)
+- I am Mr [samson](name)
+- I am Mr [sauber](name)
+- I am Mr [esser](name)
+- my last name is [schmidt](name)
+- my first name is [weiner](name)
+- my last name is [stark](name)
+- my first name is [teufel](name)
+- my name is [wexler](name)
+
+
+## intent:greet
+- Hi
+- Hey
+- Hi bot
+- Hey bot
+- Hello
+- Good morning
+- hi again
+- hi folks
+- hi Mister
+- hi pal!
+- hi there
+- greetings
+- hello everybody
+- hello is anybody there
+- hello robot
+- hallo
+- heeey
+- hi hi
+- hey
+- hey hey
+- hello there
+- hi
+- hello
+- yo
+- hola
+- hi?
+- hey bot!
+- hello friend
+- good morning
+- hii
+- hello sweet boy
+- yoo
+- hey there
+- hiihihi
+- hello sweatheart
+- hellooo
+- helloooo
+- heyo
+- ayyyy whaddup
+- hello?
+- Hallo
+- heya
+- hey bot
+- howdy
+- Hellllooooooo
+- whats up
+- Hei
+- Well hello there ;)
+- I said, helllllloooooO!!!!
+- Heya
+- Whats up my bot
+- hiii
+- heyho
+- hey, let's talk
+- hey let's talk
+- jojojo
+- hey dude
+- hello it is me again
+- what up
+- hi there
+- hi
+- jop
+- hi friend
+- hi there it's me
+- good evening
+- good morning
+- good afternoon
+
+## intent:human_handoff
+- I want to talk to a human
+- let me speak with a real person please
+- are there also humans working for your company?
+- gimme a proper human
+- I don't wanna talk to a bot
+- Can I speak to anyone who can really help me?
+- I dont like to talk to a machine
+- can you please connect me to a real Movinga employee?
+- give me a human now
+- that's annoying I'd like to speak to someone real
+- i would like to speak to a person
+- can you put me in touch with a human?
+- let me talk to a human
+- id like to talk to a real Movinga employee
+- i dont wanna talk to a bot
+- talking to a bot is stupid
+- i want to talk to someone who is smarter than you
+- can i please speak to a human?
+- i'd rather speak with a real Movinga employee
+- i want to talk to someone else
+- let me talk to a real person
+- please give me a human
+- i want to talk to a person
+- customer service
+- i want to speak to customer service
+- someone from customer care
+- can you forward me to your team
+- service agent
+- human handoff
+- give me a human
+- speak to a real person
+- i want to speak to a real person
+- wrong i want to speak to a human
+- Could I talk to Arne?
+- i want to talk to someone at Movinga
+- i want to speak to a manager
+- I want to talk to the founders
+- i want to talk to a human
+
+## intent:affirm
+- yes
+- of course
+- sure
+- yeah
+- ok
+- cool
+- go for it
+- yep
+- yep, will do thank you
+- I'm sure I will!
+- oh awesome!
+- Yes
+- accept
+- I accept
+- i accept
+- ok i accept
+- I changed my mind. I want to accept it
+- ok cool
+- alright
+- i will!
+- ok, I behave now
+- yop
+- oki doki
+- yes please
+- yes please!
+- jo
+- yep if i have to
+- amayzing
+- confirm
+- nice
+- coolio
+- definitely yes without a doubt
+- yas
+- yup
+- perfect
+- sure thing
+- absolutely
+- Oh, ok
+- Sure
+- hm, i'd like that
+- ja
+- sure!
+- yes i accept
+- Sweet
+- amazing!
+- how nice!
+- cool!
+- yay
+- yes accept please
+- great
+- oh cool
+- yes
+- fine
+
+## intent:out_of_scope
+- what is 9 times 9?
+- I want pizza
+- please help with my ice cream it's dripping
+- no wait go back i want a dripping ice cream but a cone that catches it so you can drink the ice cream later
+- i want a non dripping ice cream
+- hey little mama let em whisper in your ear
+- someone call the police i think the bot died
+- show me a picture of a chicken
+- neither
+- I want french cuisine
+- i am hungry
+- restaurants
+- restaurant
+- you're a loser lmao
+- can i be shown a gluten free restaurant
+- i don't care!!!!
+- i do not care how are you
+- again?
+- oh wait i gave you my work email address can i change it?
+- hang on let me find it
+- stop it, i do not care!!!
+- really? you're so touchy?
+- how come?
+- I changed my mind
+- what?
+- did i break you
+- I don't wanna tell the name of my company
+- that link doesn't work!
+- you already have that
+- this is a really frustrating experience
+- no stop
+- i want a french restaurant
+- shit bot
+- do you want to marry me?
+- give me food
+- i want food
+- udo, I want to marry you
+- i wanna party
+- shitmuncher
+- I like you
+- i want pizza
+- i want pizza!!
+- silly bot
+- i want to eat
+- you are a stupid bot
+- i hate you
+- Can I ask you questions first?
+- is it a wasteland full of broken robot parts?
+- i can't deal with _your_ request
+- are you vegan
+- who will anser my email?
+- do you sell vacuum robots?
+- i want to buy a roomba for my grandson
+- and make chicken noises into the phone
+- is barbara still married to you
+- what's your wife doing this weekend
+- how are the kids
+- you're rather dull
+- personal or work?
+- tell me a joke
+- what else?
+- I already told you! I'm a shitmuncher
+- I'm a shitmuncher
+- who are they?
+- can we keep chatting?
+- talk to me
+- who is your favourite robot?
+- a tamed mouse will arrive at your doorstep in the next couple of days
+- you will know it from the single red rose it carries between its teeth
+- i will tame a mouse for you
+- isn't the newsletter just spam?
+- go back
+- can you help me with the docs?
+- sorry, i cannot rephrase
+- and your REST API doesn't work
+- i told you already
+- better than you
+- oh my god, not again!
+- you are a badass bot!
+- lol
+- why do you need that?
+- is that any of your business
+- can you help me with your docs?
+- i immediately need help with implementing the coolest bot you can imagine
+- can you help me with your docs
+- can you tell me how to build a bot?
+- can you learn from our conversation?
+- common, just try
+- hey, I contacted you a couple of days ago but didn't get any response, any news?
+- please hurry, i have deadline in two weeks to deliver the bot it is for very big company
+- you are annoying
+- Do I have to accept?
+- kannst du auch deutsch?
+- are the newsletter worth the subscription?
+- it's a pity
+- i want more of you in my life!
+- the one that is better than you
+- you suck
+- bots are bad
+- i dont like bots
+ - do you have a phone number?
+- where do you live?
+- how are arne's cats doing?
+- but I just told you that :(
+- Why don’t you answer?
+- But you're an english site :(
+- can you help me to build a bot
+
+## intent:change_booking_time
+- I wanna change the booking time.
+- I want to change the booking time.
+- I would like to change the booking time.
+- I wanna change the time.
+- I want to change the time.
+- I would like to change the time.
+- Change me the booking time.
+- Change me the time.
+- Change time
+- change the time
+- change the time please
+- time change
+- Change time please
+- ok i want to edit my information
+- and i wanna change the time and the date
+- I would like to change the date of the moving
+- i have an issue and i like to change the transportation date
+
+## intent:change_booking_volume
+- I wanna change the booking volume.
+- I want to change the booking volume.
+- I would like to change the booking volume.
+- I wanna change the volume.
+- I want to change the volume.
+- I would like to change the volume.
+- Change me the booking volume.
+- Change me the volume.
+- Change volume
+- volume change
+- Change volume please
+- wanna change my booking quantity
+- wanna change my booking size
+- i would like to change the size of the furniture to move
+- the size of the furniture for moving
+- change the volume needs
+
+## intent:change_booking_requirement
+- I wanna change the booking requirement.
+- I want to change the booking requirement.
+- I would like to change the booking requirement.
+- I wanna change the requirement.
+- I want to change the requirement.
+- I would like to change the requirement.
+- Change me the booking requirement.
+- Change me the requirement.
+- Change requirement
+- requirement change
+- Change requirement please
+- i want to add some requirements
+- i would like to add requirements
+- wanna add a requirement 
+- i have another requirement to tell
+- change my requirements
+- need more requirements
+- want to add more requirements please
+
+## intent:thank
+- Thanks
+- Thank you
+- Thank you so much
+- Thanks bot
+- Thanks for that
+- cheers
+- cheers bro
+- ok thanks!
+- perfect thank you
+- thanks a bunch for everything
+- thanks for the help
+- thanks a lot
+- amazing, thanks
+- cool, thanks
+- cool thank you
+- thanks
+- thanks!
+- Cool. Thanks
+- thanks
+- thanks this is great news
+- thank you
+- great thanks
+- Thanks!
+- cool thanks
+- thanks for forum link, I'll check it out
+- thanks!
+
+## intent:explain
+- tell me more
+- could you please explain that
+- could you tell me more
+- give me more information please
+- could you please give me some more information
+- i want more information
+- what is the difference
+- can you tell me the difference
+- why
+- why is that
+- why do you need it
+- why are you asking
+- why asking for my volume
+- why asking for my date
+- why asking for my email
+- why asking for my phone
+- why asking for my number
+- why ya asking
+- what do you mean ?
+- i don'understand you
+- explain better please
+- what do you mean by departure
+- what do you mean by arrival
+- what do you mean by phone
+- what do you mean by number
+- what do you mean by volume
+- what do you mean by email
+- what do you mean by mail
+- do not wanna give you my email
+- do not wanna give you my number
+- do not wanna give you my phone
+- do not wanna give you my phone number
+
+## intent:feedback
+- tell your developers that I said that [you need to start telling people happy birthday](feedback_message)
+- tell your developers that
+- tell your developers to [do better job with you](feedback_message)
+- tell your developers [you need to understand better](feedback_message)
+- I have feedback for your developers
+- tell your creators [I want a refund](feedback_message)
+- [I love you](feedback_message) tell this your developers
+- I want to give you feedback
+- tell your developers [they need to integrate with Google Play Music](feedback_message)
+- send feedback to your developers [keep the great work](feedback_message)
+- tell your developers [it's hard to get you to understand what I'm saying](feedback_message)
+- send feedback to your team
+- send message to your developers [you should fix it asap](feedback_message)
+- tell your developers [I'm not happy](feedback_message)
+- I want you to tell your developers that [I like you](feedback_message)
+- tell your developers that [you're just like my mom](feedback_message)
+- tell your developers [I love you](feedback_message)
+- message for your creators [the app is awesome](feedback_message)
+- I want to contact your developer and tell him [what a good job he did creating you](feedback_message)
+- [you are not bad](feedback_message)
+- [I love you](feedback_message)
+- [you need to understand better](feedback_message)
+- [the app is awesome](feedback_message)
+- [bla bla blah](feedback_message)
+- [positive](feedback_value)
+- [negative](feedback_value)
+- wanna give my feedback
+
+##intent:question
+- i have a question
+- question
+- I have a question
+- May I ask a question
+- a question
+- i want to ask a question
+- i wanna ask a question
+- i have another question
+- can you help me with this problem
+- help me wih the installation
+- i am having trouble setting this up
+- technical side of things?
+- having some problems with installation
+- can I ask a question
+- may I ask a question
+- I have an enquiry
+- I have a serioujs question
+- I have a serious question
+- I have some questions
+- i have many questions
+- could you respond to my question please
+- may i ask a qiestion?
+- may I ask a question please
+- may I ask a question
+- may I ask one last question
+
+## synonym:book
+- reserve
+
+## synonym:truck
+- lorry
+- vehicule
+
+## lookup:location
+data/location.txt
+
+## lookup:furniture
+data/furniture.txt
+
+## lookup:name
+data/name.txt
+
+## synonym:USA
+- US
+- U.S.
+- USA
+- usa
+- United States
+
+## synonym:United Kingdom
+- UK
+- U.K.

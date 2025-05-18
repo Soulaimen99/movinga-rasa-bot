@@ -1,0 +1,73 @@
+language: en
+
+# Configuration for Rasa NLU
+pipeline:
+  # Tokenization
+  - name: WhitespaceTokenizer
+
+  # Entity extraction
+  - name: RegexEntityExtractor
+  - name: CRFEntityExtractor
+
+  # Feature extraction
+  - name: CountVectorsFeaturizer
+    OOV_token: oov
+    token_pattern: (?u)\b\w+\b
+  - name: CountVectorsFeaturizer
+    analyzer: char_wb
+    min_ngram: 1
+    max_ngram: 4
+
+  # Intent classification
+  - name: DIETClassifier
+    epochs: 100
+    constrain_similarities: true
+    model_confidence: softmax
+
+  # Entity extraction using external service
+  - name: DucklingHTTPExtractor
+    url: ${DUCKLING_URL}
+    timezone: Europe/Berlin
+    locale: en_GB
+    dimensions:
+      - email
+      - number
+      - amount-of-money
+      - phone-number
+      - quantity
+      - time
+      - volume
+
+  # Entity mapping
+  - name: EntitySynonymMapper
+
+  # Response selection for out-of-scope messages
+  - name: ResponseSelector
+    epochs: 100
+    retrieval_intent: out_of_scope
+    constrain_similarities: true
+
+  # Fallback classifier
+  - name: FallbackClassifier
+    threshold: 0.7
+
+# Configuration for Rasa Core
+policies:
+  # Main dialogue policy
+  - name: TEDPolicy
+    max_history: 10
+    epochs: 20
+    batch_size: [32, 64]
+    constrain_similarities: true
+
+  # Memory-based policy
+  - name: MemoizationPolicy
+    max_history: 6
+
+  # Rule-based policy for forms and fallbacks
+  - name: RulePolicy
+    core_fallback_threshold: 0.3
+    core_fallback_action_name: "action_default_fallback"
+    enable_fallback_prediction: true
+    restrict_rules: true
+    check_for_contradictions: true

@@ -1,0 +1,13 @@
+action_endpoint:
+  url: http://localhost:5055/webhook
+
+#tracker_store:
+#    type: redis
+#    url: localhost
+#    port: 6379
+#    db: 0
+
+tracker_store:
+    type: SQL
+    dialect: "sqlite"  # the dialect used to interact with the db
+    db: "database.db"  # path to

@@ -1,0 +1,69 @@
+intent,button,entities
+enter_data,I want to give you more information,
+enter_data,My requirement is {requirement},requirement
+enter_data,The language is {language}.,language
+enter_data,{entity},entity
+enter_data,My job is {job_function},job_function
+enter_data,{number},number
+enter_data,{amount-of-money},amount-of-money
+enter_data,My name is {name},name
+enter_data,My company is {company},company
+enter_data,My email is {email},email
+enter_data,Install Rasa Stack with {package_manager},package_manager
+mood_confirm,Yes,
+contact_sales,Talk to Sales,
+signup_newsletter,Signup for the newsletter with {email},email
+greet,"Say ""Hi!"" ",
+human_handoff,Talk to a human,
+deny,No,
+ask_builder,Who built you?,
+ask_weather,How's the weather?,
+ask_howdoing,How do you feel?,
+ask_whatspossible,What can you do for me?,
+ask_whatismovinga,What is Movinga?,
+ask_isbot,Are you a bot?,
+ask_howold,How old are you?,
+ask_languagesbot,What languages do you speak?,
+ask_restaurant,Can you recommend a restaurant?,
+ask_time,What time is it?,
+ask_wherefrom,Where are you from?,
+ask_whoami,Who are you?,
+ask_whatismyname,What is your name?,
+ask_howbuilt,How were you built?,
+handleinsult,You wanted to insult me 😔.,
+nicetomeeyou,Nice to meet you.,
+telljoke,Tell me a joke!,
+thank,Thanks!,
+ask_whoisit,Who are you?,
+bye,Bye!,
+canthelp,You can't help me.,
+feedback,I want to give you feedback.,
+feedback,{feedback_message},feedback_message
+feedback,{feedback_value} feedback,feedback_value
+how_to_get_started,How to get started with Rasa?,
+how_to_get_started,I am new to Rasa and want to get started.,user_type
+how_to_get_started,How to get started with {product}?,product
+technical_question,A technical question.,
+nlu_info,I want more information about NLU.,
+nlu_info,I want info on {nlu_part}.,nlu_part
+pipeline_recommendation,I want a pipeline recommendation.,
+nlu_generation_tool_recommendation,I want a recommendation for an NLU data generation tool.,
+suggestion,A suggestion of how I can improve.,
+ask_faq_whatfitintruck,What fit in the truck?,
+ask_faq_transportinsured,Is the transport insured?,
+ask_faq_tutorialcore,I want a tutorial for Rasa Core.,
+ask_faq_tutorialnlu,I want a tutorial for Rasa NLU.,
+ask_faq_transporttakelotoftime,Transport take a lot of time,
+ask_faq_noconfirmationreceived,No confirmation received,
+ask_faq_paymentmethods,How can I pay,
+ask_faq_helperstopmultiplelocations,Does the helper stop at multiple locations?,
+ask_faq_ordertimestart,Order time start,
+ask_which_events,Which community events take place?,
+ask_when_next_event,When is the next event?,
+ask_when_next_event,When is the next event in {location}?,location
+ask_question_in_forum,How can I ask a question in the forum?,
+react_positive,I'm happy! ,
+react_negative,I'm sad! ,
+ask_faq_changeforgetpassword,Change / Forget password,
+ask_faq_downloadapp,How to download the App,
+ask_faq_needtobeatlocation,Need to be at the location?,
