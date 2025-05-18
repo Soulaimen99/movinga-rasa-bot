@@ -1,6 +1,6 @@
 # Movinga Chatbot
 
-A conversational AI assistant for Movinga, a moving services company. This chatbot helps users book moving services, manage their bookings, and get answers to frequently asked questions.
+A conversational AI assistant for a moving services company. This chatbot helps users book moving services, manage their bookings, and get answers to frequently asked questions.
 
 ## Features
 
